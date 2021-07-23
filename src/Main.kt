@@ -113,10 +113,7 @@ fun main() {
     println("list300[2] : ${list300[2]}")
     println("list300[3] : ${list300[3]}")
     println("list300[4] : ${list300[4]}")
-
-
 }
-
 
 
 
